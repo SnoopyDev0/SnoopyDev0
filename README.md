@@ -31,7 +31,7 @@
 </td>
 <td width="57%" valign="middle" align="center">
 
-<img src="./terminal.svg" alt="." width="100%">
+<img src="https://github.com/SnoopyDev0/SnoopyDev0/blob/main/terminal.svg" alt="." width="100%">
 
 </td>
 </tr>
