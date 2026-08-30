@@ -164,9 +164,7 @@ I use Linux like I would walk.
 <code>></code> compiling ideas into reality · <b>Cyber Snoopy</b> <code>_</code>
 </sub>
 
-</div><!-- ======================= BANNER ======================= -->
 
-<div align="center">
 
 <img src="./banner.svg" alt="Cyber Snoopy — Software Engineer / Ethical Hacker" width="100%">
 
