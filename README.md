@@ -31,7 +31,7 @@
 </td>
 <td width="57%" valign="middle" align="center">
 
-<img src="./terminal.svg" alt="sodre@ai-forge — A.I. Software Engineer" width="100%">
+<img src="./terminal.svg" alt="." width="100%">
 
 </td>
 </tr>
