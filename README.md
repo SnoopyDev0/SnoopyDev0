@@ -166,10 +166,6 @@ I use Linux like I would walk.
 
 
 
-<img src="./banner.svg" alt="Cyber Snoopy — Software Engineer / Ethical Hacker" width="100%">
 
-</div>
-
-<br>
 
 
