@@ -12,7 +12,7 @@
 <tr>
 <td width="43%" valign="middle">
 
-<h2>&gt; Sodré<code>_</code></h2>
+<h2>&gt; Cyber Snoopy<code>_</code></h2>
 <h3>🧬 Software Engineer/Etical Hacker</h3>
 
 <p><em>Uso LINUX como se fosse andar.<br>I use Linux like I would walk.</em></p>
@@ -55,9 +55,9 @@
 <br>
 
 <!-- ======================= MINI DESCRIÇÃO ======================= -->
-> 🇧🇷 **Engenheiro de software orientado por IA.** Há cerca de 2 anos transformo ideias em produtos que rodam — de apps e sites a jogos (inclusive Roblox) e bancos de dados para projetos já existentes. Gosto do que é difícil: **WebSocket**, **acesso remoto criptografado ponta a ponta**, **databases blindadas** e **conexões P2P descentralizadas**. Meu diferencial é o processo: prompt engineering afiado e raciocínio lógico pra caçar bugs rápido e maximizar a assertividade.
+> 🇧🇷 Hacker Ético & Engenheiro de Software/Reversão. Atuo na análise, compreensão e segurança de softwares, buscando entender como sistemas funcionam por dentro e identificar vulnerabilidades antes que elas possam ser exploradas de forma maliciosa. Trabalho com engenharia reversa, análise de binários, debugging, análise de memória, protocolos, criptografia, proteção de aplicações e pesquisa de segurança.
 >
-> 🇺🇸 **AI-driven software engineer.** For ~2 years I've been turning ideas into shipped products — apps, websites, games (Roblox included) and databases for existing projects. I like the hard stuff: **WebSockets**, **end-to-end encrypted remote access**, **hardened databases** and **decentralized P2P connections**. My edge is the process: sharp prompt engineering and logical reasoning to hunt bugs fast and maximize precision.
+> 🇺🇸 Ethical Hacker & Software Reverse Engineer. I specialize in analyzing, understanding, and securing software by looking beyond the surface to uncover how systems work internally and identify vulnerabilities before they can be abused. My work involves reverse engineering, binary analysis, debugging, memory analysis, network protocols, cryptography, application security, and security research.
 
 <br>
 
@@ -67,12 +67,8 @@
      É aqui que você adiciona seus links depois — é só copiar um item e editar.
      ======================================================================= -->
 
-<details>
-<summary><b>🚀 Projetos em destaque &nbsp;/&nbsp; Featured projects</b></summary>
-<br>
 
-<!-- <!== EDITE: um item por projeto. Troque nome, link e descrição. ==> -->
-- **[J.A.R.V.I.S]([https://github.com/NinjaZinS2/jarvis-releases])** — agente orquestrador de ações no seu computador - seguro, pratico e multifuncional
+
 
 </details>
 
@@ -80,11 +76,16 @@
 <summary><b>🧰 Stack &amp; skills &nbsp;/&nbsp; O que eu uso</b></summary>
 <br>
 
-<!-- <!== EDITE livremente ==> -->
-**Engenharia com IA:** prompt engineering, orquestração de agentes, estratégias de debugging assistido, raciocínio lógico aplicado.
-**Backend & Redes:** WebSocket, APIs em tempo real, acesso remoto, criptografia ponta a ponta, P2P / arquiteturas descentralizadas.
-**Dados:** modelagem e proteção de bancos de dados, segurança de acesso.
-**Criação:** apps, sites, jogos web, Roblox / Luau.
+<!-- <!-- EDITE livremente --> -->
+
+****Ethical Hacking:**** penetration testing, vulnerability assessment, security auditing, web security, network security, authentication and access control.
+
+****Reverse Engineering:**** binary analysis, debugging, software behavior analysis, memory analysis, static & dynamic analysis, code understanding.
+
+****Security Research:**** vulnerability research, attack surface analysis, protocol analysis, cryptography, malware analysis, application hardening.
+
+****Tools & Development:**** C / C++, Python, scripting, custom security tools, automation, debuggers, analyzers and security-oriented software.
+
 
 </details>
 
@@ -114,5 +115,5 @@
 
 <!-- ======================= RODAPÉ ======================= -->
 <div align="center">
-<sub><code>&gt;</code> compiling ideas into reality · <b>building with AI</b> <code>_</code></sub>
+<sub><code>&gt;</code> compiling ideas into reality · <b></b> <code>_</code></sub>
 </div>
