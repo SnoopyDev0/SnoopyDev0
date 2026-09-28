@@ -66,13 +66,27 @@ I use Linux like I would walk.
 
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-a01ec8?style=for-the-badge&logoColor=white)
 
+![C](https://img.shields.io/badge/C-2ee6ff?style=for-the-badge&logo=c&logoColor=0d0620)
+
 ![C++](https://img.shields.io/badge/C%2B%2B-2ee6ff?style=for-the-badge&logo=cplusplus&logoColor=0d0620)
+
+![C#](https://img.shields.io/badge/C%23-a01ec8?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-2ee6ff?style=for-the-badge&logo=python&logoColor=0d0620)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-a01ec8?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-2ee6ff?style=for-the-badge&logo=nodedotjs&logoColor=0d0620)
+
+![Java](https://img.shields.io/badge/Java-ff45e0?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-a01ec8?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![Lua](https://img.shields.io/badge/Lua-2ee6ff?style=for-the-badge&logo=lua&logoColor=0d0620)
+
+![Go](https://img.shields.io/badge/Go-2ee6ff?style=for-the-badge&logo=go&logoColor=0d0620)
+
+![Rust](https://img.shields.io/badge/Rust-ff45e0?style=for-the-badge&logo=rust&logoColor=white)
 
 ![WebSocket](https://img.shields.io/badge/WebSocket-ff45e0?style=for-the-badge&logo=socketdotio&logoColor=white)
 
@@ -81,6 +95,26 @@ I use Linux like I would walk.
 ![P2P](https://img.shields.io/badge/P2P_%2F_Decentralized-ff45e0?style=for-the-badge&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-0d0620?style=for-the-badge&logo=linux&logoColor=2ee6ff)
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-0d0620?style=for-the-badge&logo=archlinux&logoColor=2ee6ff)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d0620?style=for-the-badge&logo=kalilinux&logoColor=2ee6ff)
+
+</div>
+
+<br>
+
+<!-- ======================= IDEs & TOOLS ======================= -->
+
+<div align="center">
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-a01ec8?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-2ee6ff?style=for-the-badge&logo=visualstudiocode&logoColor=0d0620)
+
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-ff45e0?style=for-the-badge&logoColor=white)
+
+![Cheat Engine](https://img.shields.io/badge/Cheat_Engine-0d0620?style=for-the-badge&logoColor=2ee6ff)
 
 </div>
 
@@ -114,7 +148,13 @@ I use Linux like I would walk.
 
 **Security Research:** vulnerability research, attack surface analysis, protocol analysis, cryptography, malware analysis, application hardening.
 
-**Tools & Development:** C / C++, Python, scripting, custom security tools, automation, debuggers, analyzers and security-oriented software.
+**Languages:** C, C++, C#, Python, JavaScript, Java, Kotlin, Lua, Go, Rust.
+
+**Systems:** Linux, Arch Linux, Kali Linux, Windows.
+
+**IDEs & Tools:** Visual Studio, Visual Studio Code, IDA Pro, Cheat Engine, debuggers, analyzers and security-oriented software.
+
+**Tools & Development:** scripting, custom security tools, automation, debuggers, analyzers and security-oriented software.
 
 </details>
 
@@ -163,9 +203,3 @@ I use Linux like I would walk.
 <sub>
 <code>></code> compiling ideas into reality · <b>Cyber Snoopy</b> <code>_</code>
 </sub>
-
-
-
-
-
-
